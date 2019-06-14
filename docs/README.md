@@ -1,5 +1,4 @@
 # དྲ་རྒྱའི་ནང་སྒྲིག་སྟངས་ཀྱི་དཔེ་མཚོན།
-zsdxfclkdsjfl
 
 ![image alt text](https://github.com/bdrc-reader/shechen/blob/master/Capture.PNG)
 # དཔེ་ཀློག་སྒེའུ་ཁུངས་ཁག
