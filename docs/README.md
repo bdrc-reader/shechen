@@ -2,8 +2,9 @@
 
 ![image alt text](https://raw.githubusercontent.com/bdrc-reader/shechen/master/docs/img/Capture.PNG)
 
-
-
+<br>
+<br>
+<br>
 
 # ༢༽ དཔེ་ཀློག་སྒེའུ་ཁུངས་ཁག
 
