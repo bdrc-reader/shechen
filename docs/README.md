@@ -1,6 +1,10 @@
 # ༡༽ དྲ་རྒྱའི་ནང་སྒྲིག་སྟངས་ཀྱི་དཔེ་མཚོན།
 
 ![image alt text](https://raw.githubusercontent.com/bdrc-reader/shechen/master/docs/img/Capture.PNG)
+
+
+
+
 # ༢༽ དཔེ་ཀློག་སྒེའུ་ཁུངས་ཁག
 
 dsdsdflkdjs
