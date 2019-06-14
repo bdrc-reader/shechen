@@ -1,4 +1,5 @@
-# ༡༽ དྲ་རྒྱའི་ནང་སྒྲིག་སྟངས་ཀྱི་དཔེ་མཚོན།
+<ul>
+ <li># ༡༽ དྲ་རྒྱའི་ནང་སྒྲིག་སྟངས་ཀྱི་དཔེ་མཚོན།</li>
 
 ![image alt text](https://raw.githubusercontent.com/bdrc-reader/shechen/master/docs/img/Capture.PNG)
 
@@ -6,11 +7,11 @@
 <br>
 <br>
 
-# ༢༽ དཔེ་ཀློག་སྒེའུ་ཁུངས་ཁག
+<li># ༢༽ དཔེ་ཀློག་སྒེའུ་ཁུངས་ཁག</li>
 
 dsdsdflkdjs
 
-# ༣༽ རང་དགོན་གྱིས་པར་སྐྱུན་བྱས་པའི་དཔེ་ཆ།
+<li># ༣༽ རང་དགོན་གྱིས་པར་སྐྱུན་བྱས་པའི་དཔེ་ཆ།</li>
 ldfksajfc;lkxjfnx
 
 # ༤༽ དཔེ་ཀློག་སྒེའུ་ཁུང་སོ་སོའི་དྲ་རྒྱའི་ནང་དུ་བསྒྲིག་ཚུལ།
@@ -24,3 +25,7 @@ ldfksajfc;lkxjfnxz
 
 # ༧༽ ཡི་གེ་བཏགས་མ་སྣོན་ཚུལ།
 ldfksajfc;lkxjfnxz
+</ul>
+
+</body>
+</html>
