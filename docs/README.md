@@ -9,7 +9,8 @@
 # Test
 
 
-<iframe src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0009001&origin=website.com"></iframe>
+<iframe src="http://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0009001&origin=website.com" width="100%"></iframe>
+
 
 [Website Link](https://bdrc-reader.github.io/shechen/)
 
