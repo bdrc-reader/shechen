@@ -8,7 +8,7 @@
 # དཔེ་ཀློག་སྒེའུ་ཁུངས་ཁག
 
 
-<iframe src="http://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0009001&origin=website.com"></iframe>
+<iframe src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0009001&origin=website.com"></iframe>
 
 # test
 <iframe frameborder=0 style="min-width: 200px; width: 60%; height: 460px;" scrolling="no" seamless="seamless" srcdoc='<html><body><style type="text/css">.gist .gist-data { height: 400px; }</style><script src="http://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0009001&origin=website.com"></script></body></html>'></iframe> 
