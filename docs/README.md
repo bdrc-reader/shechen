@@ -7,12 +7,11 @@
 <br>
 <br>
 
-# ཞེ་ཆེན་དགོན་པའི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
+# ཞེ་ཆེན་དགོན་གྱི་ངོ་སྤྲོད་མདོར་བསྡུས།
 
-<iframe src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0009&origin=website.com" width="100%" height="100%"></iframe>
 
 
 
 [Website Link](https://bdrc-reader.github.io/shechen/)
 
-# ཞེ་ཆེན་དགོན་པའི་ངོ་སྤྲོད་མདོར་བསྡུས་ཤིག་འབྲི་དགོས།
+# ཞེ་ཆེན་དགོན་པའི་དཔེ་ཀློག་སྒེའུ་ཁུང་ངོ་སྤྲོད།
