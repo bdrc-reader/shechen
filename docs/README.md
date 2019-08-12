@@ -1,32 +1,18 @@
-# དྲ་རྒྱའི་ནང་སྒྲིག་སྟངས་ཀྱི་དཔེ་མཚོན།
+<p align="center">
+  <span>མདུན་ངོས།</span> • <a href="https://bdrc-reader.github.io/shechen/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/shechen/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/shechen/sungbum">ཞེ་ཆེན་དགོན་དང་འབྲེལ་བའི་གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/shechen/doncha">གྲྭ་ཚང་གི་འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/shechen/tantra">སྔགས་ཀྱི་སྐོར།</a> •  </a><a href="https://bdrc-reader.github.io/shechen/natsok">སྣ་ཚོགས།</a></p>
+
 
 ![image alt text](https://raw.githubusercontent.com/bdrc-reader/shechen/master/docs/img/Capture.PNG)
 
 <br>
 <br>
-<br>
 
-# Test
+# ཞེ་ཆེན་དགོན་པའི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
-
-<iframe src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0009001&origin=website.com" width="100%" height="100%"></iframe>
+<iframe src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0009&origin=website.com" width="100%" height="100%"></iframe>
 
 
 
 [Website Link](https://bdrc-reader.github.io/shechen/)
 
-# རང་དགོན་གྱིས་པར་སྐྱུན་བྱས་པའི་དཔེ་ཆ།
-ldfksajfc;lkxjfnx
-
-# དཔེ་ཀློག་སྒེའུ་ཁུང་དྲ་རྒྱའི་ནང་བསྒྲིག་ཚུལ།
-ldfksajfc;lkxjfnxz
-
-# དཔེ་ཀློག་སྒེའུ་ཁུང་གསར་དུ་སྒྲིག་ཚུལ།
-ldfksajfc;lkxjfnxz
-
-# དཀར་ཆག་བསྐྱར་བཅོས་བྱེད་ཚུལ།
-ldfksajfc;lkxjfnxz
-
-# ཡི་གེ་བཏགས་མ་སྣོན་ཚུལ།
-ldfksajfc;lkxjfnxz
-
+# ཞེ་ཆེན་དགོན་པའི་ངོ་སྤྲོད་མདོར་བསྡུས་ཤིག་འབྲི་དགོས།
