@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://bdrc-reader.github.io/shechen/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/shechen/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/shechen/doncha">གྲྭ་ཚང་གི་འདོན་ཆའི་སྐོར།</a> • <span>ཞེ་ཆེན་དགོན་དང་འབྲེལ་བའི་གསུང་འབུམ་ཁག</span></p>
+  <a href="https://bdrc-reader.github.io/shechen/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/shechen/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/shechen/shunglug">གཞུང་ལུགས།</a>  • <span>ཞེ་ཆེན་དགོན་དང་འབྲེལ་བའི་གསུང་འབུམ་ཁག</span> • <a href="https://bdrc-reader.github.io/shechen/doncha">གྲྭ་ཚང་གི་འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/shechen/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/shechen/natsok">སྣ་ཚོགས།</a></p>
 
 
 # ཞེ་ཆེན་དགོན་དང་འབྲེལ་བའི་གསུང་འབུམ་ཁག་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།

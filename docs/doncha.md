@@ -1,27 +1,13 @@
 <p align="center">
-  <a href="https://bdrc-reader.github.io/drepung-loseling/">མདུན་ངོས།</a> •
-  <a href="https://bdrc-reader.github.io/drepung-loseling/zindra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> •
-  <span>གྲྭ་ཚང་གི་འདོན་ཆའི་སྐོར།</span> •
-  <a href="https://bdrc-reader.github.io/drepung-loseling/sungbum">བློ་གསལ་གླིང་དང་འབྲེལ་བའི་གསུང་འབུམ་ཁག</a>
-  </p>
+  <a href="https://bdrc-reader.github.io/shechen/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/shechen/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/shechen/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/shechen/sungbum">ཞེ་ཆེན་དགོན་དང་འབྲེལ་བའི་གསུང་འབུམ་ཁག</a> • <span>གྲྭ་ཚང་གི་འདོན་ཆའི་སྐོར།</span> • <a href="https://bdrc-reader.github.io/shechen/tantra">སྔགས་ཀྱི་སྐོར།</a> •  </a><a href="https://bdrc-reader.github.io/shechen/natsok">སྣ་ཚོགས།</a></p>
 
 # 
 
-<iframe src="http://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0005002&origin=website.com" width="100%" height="100%"></iframe>
+<iframe src="http://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0009004&origin=website.com" width="100%" height="100%"></iframe>
 
 <br>
 <br>
 
 # རྒྱུན་འདོན་དང་སྒྲུབ་མཆོད་ཁག
 
-དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་ལྷ་བཅུ་གསུམ་མ།
-
-དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་དཔའ་བོ་གཅིག་པ།
-
-མགོན་པོ་ཕྱག་དྲུག་པ།
-
-དམ་ཅན་ཆོས་རྒྱལ།
-
-དཔལ་ལྡན་ལྷ་མོ།
-
-རྣམ་སྲས་རྟ་བདག་བརྒྱད།
+འདོན་ཆའི་སྐོར་འབྲི་དགོས།
