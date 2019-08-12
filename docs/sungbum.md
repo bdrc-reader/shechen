@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://bdrc-reader.github.io/drepung-loseling/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/drepung-loseling/zindra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/drepung-loseling/doncha">གྲྭ་ཚང་གི་འདོན་ཆའི་སྐོར།</a> • <span>བློ་གསལ་གླིང་དང་འབྲེལ་བའི་གསུང་འབུམ་ཁག</span></p>
+  <a href="https://bdrc-reader.github.io/drepung-shechen/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/shechen/zindra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/shechen/doncha">གྲྭ་ཚང་གི་འདོན་ཆའི་སྐོར།</a> • <span>ཞེ་ཆེན་དགོན་དང་འབྲེལ་བའི་གསུང་འབུམ་ཁག</span></p>
 
 
 # བློ་གསལ་གླིང་གྲྭ་ཚང་དང་འབྲེལ་བའི་གསུང་འབུམ་ཁག་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
-<iframe src="http://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0005003&origin=website.com" width="100%" height="100%"></iframe>
+<iframe src="http://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0009&origin=website.com" width="100%" height="100%"></iframe>
 
 <br>
 <br>
