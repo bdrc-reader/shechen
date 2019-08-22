@@ -3,7 +3,7 @@
 
 # འདོན་ཆའི་སྐོར་གྱི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
-<iframe src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0009004&origin=website.com" width="100%" height="600"></iframe>
+<iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0009004&origin=website.com" width="100%" height="600"></iframe>
 
 <br>
 <br>
