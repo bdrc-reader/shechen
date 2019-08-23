@@ -11,7 +11,7 @@ Demo of the BDRC Reader for Shechen Monastery's collections
  དྲ་ཚིགས་ཁ་བྱང་། [ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་གནས།](https://www.tbrc.org)
 
 ཁྱེད་ལ་མཁོ་བའི་དཔེ་ཆ་དེའི་མཚན་བྱང་དང་ཡང་ན་རྩོམ་པ་པོའི་མཚན་གང་བྲིས་ནས་བཙལ་རུང་ཆོག
-
+<br>
 <br>
 
 ![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/01.png)
@@ -20,7 +20,7 @@ Demo of the BDRC Reader for Shechen Monastery's collections
 ## ༢ བཙལ་འབྲས་བལྟ་སྟངས། གཤམ་གྱི་དཔེ་རིས་ལ་གཟིགས།
 
 བཙལ་བྱ་གཅིག་ལ་བཙལ་འབྲས་མང་པོ་ཡོང་སྲིད། དེའི་ཁྲོད་ནས་རང་ཉིད་ཀྱིས་བཙལ་འབྲས་རེ་རེའི་སྟེང་བསྣུན་ཏེ་སྤུས་ཀ་བཟང་ཞན་དང་དཀར་ཆག་བསྒྲིགས་ཡོད་མེད་ལ་བལྟས་ནས་འདེམ་གསེས་བྱ་དགོས། སྤུས་བཟང་དང་དཀར་ཆག་བཟོས་ཡོད་པའི་རིགས་འདེམ་ན་ལྷག་པར་བཟང་།
-
+<br>
 <br>
 
 ![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/02.png)
@@ -28,7 +28,7 @@ Demo of the BDRC Reader for Shechen Monastery's collections
 ## ༣ བཙལ་བྱའི་དཔེ་ཆ་དེའི་བརྩམས་ཆོས་ཨང་འཚོལ་སྟངས། གཤམ་གྱི་དཔེ་རིས་ལ་གཟིགས།
 
 <br>
-
+<br>
 དཔེ་རིས་ངོས་སུ་གསལ་བ་ལྟར་དཔེ་ཆ་དེའི་དཀར་ཆག་བཟོས་ཡོད་མེད་དང་། དཔེ་ཆ་དེ་དང་འབྲེལ་བའི་གནས་ཚུལ་གཞན་རྣམས་འདིའི་མཚམས་ནས་བལྟ་ཐུབ་པ་ཡིན། བཙལ་བྱ་དེའི་བརྩམས་ཆོས་ཨང་ཡང་འདི་ནས་ལེན་དགོས་པ་ཡིན།
 
 ![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/03.png)
