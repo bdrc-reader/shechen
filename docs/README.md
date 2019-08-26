@@ -30,4 +30,4 @@
 
 གཤམ་བཀོད་ཀྱི་དཔེ་ཀློག་སྒེའུ་ཁུང་གི་ཨང་བརྡ་ངོ་བཤུ་བྱས་ནས་ཁྱེད་ཀྱི་དྲ་ཚིགས་གང་གི་ནང་བླུག་ཀྱང་འཆར་ཐུབ་པ་ཡིན། འོན་ཀྱང་། ངེས་དགོས་པ་ཞིག་ལ་ཨང་འདིའི་W1ERI0009 བར་ཞེ་ཆེན་དགོན་སྤྱིའི་ཨངདང་004 ཨང་འདི་ནང་གསེས་ནང་གསེས་སྡེ་ཚན་གྱི་ཨང་ཡིན། སྒེའུ་ཁུང་གི་མཐོ་དམནདང་ཞིང་གཉིས་རང་འདོད་ལྟར་འོག་གི་ཨང་གྲངས་སྣོན་འཕྲི་བྱེད་དགོས།
 
-<iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0009004&origin=website.com" width="100%" height="600"></iframe>
+(<iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0009004&origin=website.com" width="100%" height="600"></iframe>)
