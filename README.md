@@ -46,6 +46,7 @@ Demo of the BDRC Reader for Shechen Monastery's collections
 
 <br>
 <br>
+
 # ༢ གྷི་ཐབ་ Github དྲ་ཚིགས་རང་གི་ནང་བསྐྱར་སྒྲིག་དང་ཁ་གསབ་བྱེད་སྟངས།
 
 ## ཀ དྲ་ཚིགས་རྩིམ་སྒྲིག་བྱ་གནས།
@@ -66,6 +67,9 @@ Demo of the BDRC Reader for Shechen Monastery's collections
 གཤམ་གྱི་དཔེ་རིས་ངོས་སུ་གསལ་བ་ལྟར་ཁྱེད་ཀྱིས་བསྐྱར་སྒྲིག་བྱེད་འདོད་པའི་སྡེ་ཚན་དེའི་སྟེང་བསྣུན་ན་ཐད་ཀར་སྒོ་ཕྱེ་ཡོང་བ་ཡིན། ད་གཟོད་ཁྱེད་ཀྱིས་བསྐྱར་སྒྲིག་དང་ཡང་ན་ཁ་གསབ་བཅས་བྱེད་ཐུབ་པ་ཡིན།
 
 ![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/05.png)
+
+གཤམ་གསལ་ལྟར་པར་ངོས་ཀྱི་ཟུར་གཡས་པའི་སྨྱུ་གུའི་རྟགས་དེའི་་སྟེངབསྣུན་ན་ཤོག་ངོས་འདིའི་ནང་རྩོམ་སྒྲིག་བྱེད་ཐུབ་པ་ཡིན།
+
 ![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/06.png)
 
 
