@@ -23,7 +23,7 @@ Demo of the BDRC Reader for Shechen Monastery's collections
 ![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/01.png)
 
 
-## ༢ བཙལ་འབྲས་བལྟ་སྟངས། གཤམ་གྱི་དཔེ་རིས་ལ་གཟིགས།
+## ཀ བཙལ་འབྲས་བལྟ་སྟངས། གཤམ་གྱི་དཔེ་རིས་ལ་གཟིགས།
 
 <br>
 
@@ -35,7 +35,7 @@ Demo of the BDRC Reader for Shechen Monastery's collections
 
 <br>
 
-## ༣ བཙལ་བྱའི་དཔེ་ཆ་དེའི་བརྩམས་ཆོས་ཨང་འཚོལ་སྟངས། གཤམ་གྱི་དཔེ་རིས་ལ་གཟིགས།
+## ཁ བཙལ་བྱའི་དཔེ་ཆ་དེའི་བརྩམས་ཆོས་ཨང་འཚོལ་སྟངས། གཤམ་གྱི་དཔེ་རིས་ལ་གཟིགས།
 
 <br>
 དཔེ་རིས་ངོས་སུ་གསལ་བ་ལྟར་དཔེ་ཆ་དེའི་དཀར་ཆག་བཟོས་ཡོད་མེད་དང་། དཔེ་ཆ་དེ་དང་འབྲེལ་བའི་གནས་ཚུལ་གཞན་རྣམས་འདིའི་མཚམས་ནས་བལྟ་ཐུབ་པ་ཡིན། བཙལ་བྱ་དེའི་བརྩམས་ཆོས་ཨང་ཡང་འདི་ནས་ལེན་དགོས་པ་ཡིན།
@@ -43,3 +43,32 @@ Demo of the BDRC Reader for Shechen Monastery's collections
 <br>
 
 ![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/03.png)
+
+<br>
+<br>
+# ༢ གྷི་ཐབ་ Github དྲ་ཚིགས་རང་གི་ནང་བསྐྱར་སྒྲིག་དང་ཁ་གསབ་བྱེད་སྟངས།
+
+## ཀ དྲ་ཚིགས་རྩིམ་སྒྲིག་བྱ་གནས།
+
+དང་པོ་ཞེ་ཆེན་ཞེས་པའི་སྟེང་བསྣུན་ན་ 
+
+**docs**
+
+**དང་དཀར་ཆག**
+
+**READ ME** གསུམ་གྱི་དང་པོ་docs ཟེར་བའི་སྟེང་བསྣུན་དགོས།
+
+![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/04.png)
+<br>
+<br>
+# ཁ docs ཡིག་སྣོད་ནང་གི་སྡེ་ཚན་རེ་རེ་སྒྲིག་སྟངས།
+
+གཤམ་གྱི་དཔེ་རིས་ངོས་སུ་གསལ་བ་ལྟར་ཁྱེད་ཀྱིས་བསྐྱར་སྒྲིག་བྱེད་འདོད་པའི་སྡེ་ཚན་དེའི་སྟེང་བསྣུན་ན་ཐད་ཀར་སྒོ་ཕྱེ་ཡོང་བ་ཡིན། ད་གཟོད་ཁྱེད་ཀྱིས་བསྐྱར་སྒྲིག་དང་ཡང་ན་ཁ་གསབ་བཅས་བྱེད་ཐུབ་པ་ཡིན།
+
+![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/05.png)
+![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/06.png)
+
+
+
+
+
