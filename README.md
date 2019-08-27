@@ -88,3 +88,10 @@ Demo of the BDRC Reader for Shechen Monastery's collections
 
 ![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/07.png)
 
+<br>
+
+རྩོམ་སྒྲིག་གམ་བསྒྱུར་བཅོས་རེ་རེ་བྱས་རྗེས་སྟེགས་བུའི་གཤམ་ལ་ཡོད་པའི་ **cammit changes** ཟེར་བའི་སྟེང་བསྣུན་ནས་ཁྱེད་ཀྱིས་བཟོ་བཅོས་བཏང་ཟིན་པ་དེ་ཉར་ཚགས་བྱ་དགོས། གཤམ་གྱི་དཔེ་རིས་ལ་གཟིགས།
+
+<br>
+
+![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/08.png)
