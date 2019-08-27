@@ -129,3 +129,5 @@ Demo of the BDRC Reader for Shechen Monastery's collections
 <br>
 
 ![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/10.png
+
+
