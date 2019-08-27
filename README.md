@@ -108,7 +108,9 @@ Demo of the BDRC Reader for Shechen Monastery's collections
 <br>
 
 [དྲ་ཐག་འདིར་བསྣུན་ཏེ་དཔེ་མཚོན་ལ་གཟིགས།](https://github.com/bdrc-reader/shechen/blob/master/karchak/%E0%BD%98%E0%BC%8B%E0%BD%95%E0%BE%B1%E0%BD%B2%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%91%E0%BD%94%E0%BD%BA%E0%BC%8B%E0%BD%86%E0%BC%8B%E0%BD%81%E0%BD%82%E0%BC%8B%E0%BD%82%E0%BD%B2%E0%BC%8B%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%BC%E0%BD%98%E0%BC%8B%E0%BD%82%E0%BD%9E%E0%BD%B2%E0%BC%8B%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BC%8B%E0%BD%A6%E0%BE%9F%E0%BD%84%E0%BD%A6%E0%BC%8D.tsv) དང་པོ་དཔེ་མཚོན་འདི་སྒོ་ཕྱེས་ཏེ་ངོ་བཤུ་བྱས་ཏེ་Excel ནང་ཕབ་དགོས། Excel སྒྲིག་སྟེགས་རེའུ་མིག་ནང་བསྐྱར་སྒྲིག་དང་ཡང་ན་ཁ་གསབ་གང་བྱེད་དགོས་ཀྱང་སྒྲིག་སྦྱོར་ལེགས་པོ་བྱས་རྗེས། རང་འཇགས་ཕྱིར་ངོ་བཤུས་བྱས་ཏེ་དྲ་ཚིགས་འདིའི་སྟེགས་བུའི་ནང་ལྡུག་དགོས། Excel སྒྲིག་སྟེགས་རེའུ་མིག་ནང་སྒྲིག་ཚུལ་ལ་གཟིགས།
+
 <br>
+
 ![images](https://github.com/bdrc-reader/shechen/blob/master/docs/img/09.png)
 
 <br>
