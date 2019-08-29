@@ -14,7 +14,7 @@
 
 ### དཔེ་ཀློག་སྒེའུ་ཁུང་གི་དཀར་ཆག
 
-<iframe src="https://raw.githubusercontent.com/bdrc-reader/shechen/master/karchak/W1ERI0009.tsv"></iframe>
+<iframe src="https://github.com/bdrc-reader/shechen/blob/master/karchak/W1ERI0009.tsv"></iframe>
 
 <br>
 
