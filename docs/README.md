@@ -2,7 +2,7 @@
   <span>མདུན་ངོས།</span> • <a href="https://bdrc-reader.github.io/shechen/shedra">བཤད་གྲྭ།</a> • <a href="https://bdrc-reader.github.io/shechen/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/shechen/sungbum">གསུང་འབུམ།</a> • <a href="https://bdrc-reader.github.io/shechen/doncha">འདོན་ཆ།</a> • <a href="https://bdrc-reader.github.io/shechen/tantra">སྔགས།</a> •  <a href="https://bdrc-reader.github.io/shechen/natsok">སྣ་ཚོགས།</a></p>
 
 
-![image alt text](https://raw.githubusercontent.com/bdrc-reader/shechen/master/docs/img/Capture.PNG)
+![image](https://user-images.githubusercontent.com/28945342/64144154-de59c080-ce45-11e9-8120-6bfca9d493d3.png)
 
 <br>
 
